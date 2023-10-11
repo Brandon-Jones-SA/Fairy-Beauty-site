@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.bg-pink {
+  background-color: #ffd2d2;
+}
+
+.container1 {
+  margin-top: 100px;
+  height: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container1 img {
+  height: 90%;
+  width: auto;
+}
+
+.nav {
+  width: 40%;
+  margin: auto;
+}
+
+.section{
+  background-image: url("cr=w_2000\,h_2000.webp");
+  background-position: center left;
+  background-color: #fcf3f4;
+  background-position-x: 60px;
+  background-size: 60%;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 80%;
+  margin: auto;
+  margin-top: 50px
+}
